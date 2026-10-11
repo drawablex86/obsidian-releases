@@ -60961,5 +60961,12 @@
     "author": "stwang",
     "description": "Hide both sidebars while a Thino view is active, and show them again after you switch to another tab. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "5twang/hide-sidebars-thino"
+  },
+  {
+    "id": "lets-hear-it",
+    "name": "let's hear it",
+    "author": "Rahul Rajeev",
+    "description": "Fast, private local neural text-to-speech for English notes with live word tracking and MP3 audio export.",
+    "repo": "drawablex86/lets-hear-it"
   }
 ]
